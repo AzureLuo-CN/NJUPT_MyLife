@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NJUPT_MyLife</string>
+    <string name="title_picture">图片</string>
+    <string name="title_calculator">计算器</string>
+    <string name="title_calendar">记账日历</string>
+    <string name="title_my">我的</string>
+</resources>
